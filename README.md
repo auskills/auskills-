@@ -1,25 +1,16 @@
 # AU Digital Skills
 
-Welcome to AU Digital Skills 🚀
+A fast, responsive static website for AU Digital Skills.
 
-AU Digital Skills provides free and premium digital skills courses, useful tools, tutorials, and online learning resources.
+## Files
+- `index.html` — main website
+- `style.css` — design and responsive layout
+- `script.js` — courses, 100+ tools, search and category filter
 
-## Features
+## Run
+Open `index.html` in a browser, or publish the folder with GitHub Pages.
 
-- 🎓 Free digital courses
-- 💻 Web development resources
-- 🎨 Graphic designing
-- 🤖 AI tools and tutorials
-- 📱 Social media skills
-- 📈 SEO and digital marketing
-- 🛠️ Useful online tools
+## GitHub Pages
+Repository → Settings → Pages → Deploy from a branch → `main` → `/ (root)` → Save.
 
-## Website
-
-Coming soon...
-
-## About
-
-Learn digital skills and useful online tools in one place.
-
-© 2026 AU Digital Skills
+No server or database is required.
